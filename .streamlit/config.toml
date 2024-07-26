@@ -1,6 +1,12 @@
 [theme]
-primaryColor="#6528f7"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
-textColor="#000000"
-font="sans serif"
+primaryColor = "#00A1E1"  # Humana Blue
+secondaryBackgroundColor = "#7CADD3"  # Light blue
+backgroundColor = "#FFFFFF"  # White
+
+[elements]
+textColor = "#000000"  # Black or dark grey for readability
+
+[buttons]
+rounded = true  # Use rounded buttons
+sendIcon = "➡️"  # Intuitive icon for sending messages
+deleteIcon = "🗑️"  # Intuitive icon for deleting chat history
